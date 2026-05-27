@@ -3,7 +3,6 @@
     {
       "kty": "RSA",
       "use": "sig",
-      "key_ops": ["verify"],
       "kid": "hey-clinic-bulk-001",
       "alg": "RS384",
       "n": "KEEP_YOUR_EXISTING_N_VALUE_EXACTLY",
