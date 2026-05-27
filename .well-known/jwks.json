@@ -1,12 +1,13 @@
 {
   "keys": [
     {
-      "e": "AQAB",
       "kty": "RSA",
-      "n": "uu7Kj2yPfy1hcr8h9yA_fAjGlYnkTqDWY3kBSGBwPt0IQBnyE9P8BwWUcT4BMMz7_PmZC3Fu5aV1zjOkcu3WwJ-96eChfkL3IwS8D8FHJbuTksMGs8eed3OilMBdxG4F-kVTkIDC5o-x1Tnml1l_2LLovvFJ3V7YJr5ZMsV4AIy__UlU0qPCRFXtqls671cC6OLIuftN3VAG2Mnxe-hATKM2lq0OtZaZKwcH-cRcvPLwNcy8cifRbFI5mwgCr1SqIIhx6GJ9iZAcgvRU0VIl9DjSthekQLwIn2Yjk-d02NHA3FWBjf3V7qNqChPTxkP73JjJjj6clsr5mtLE8qNtgw",
-      "kid": "hey-clinic-bulk-001",
       "use": "sig",
-      "alg": "RS384"
+      "key_ops": ["verify"],
+      "kid": "hey-clinic-bulk-001",
+      "alg": "RS384",
+      "n": "KEEP_YOUR_EXISTING_N_VALUE_EXACTLY",
+      "e": "AQAB"
     }
   ]
 }
